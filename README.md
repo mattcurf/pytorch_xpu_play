@@ -1,6 +1,8 @@
 # pytorch_xpu_play
 
-Illustrates use of PyTorch 2.5 with native XPU support, as documented at https://pytorch.org/docs/main/notes/get_start_xpu.html
+Illustrates use of PyTorch 2.5 with native XPU support, as documented at https://pytorch.org/docs/main/notes/get_start_xpu.html, https://www.intel.com/content/www/us/en/developer/articles/tool/pytorch-prerequisites-for-intel-gpu/2-5.html, and https://dgpu-docs.intel.com/driver/client/overview.html#installing-client-gpus-on-ubuntu-desktop-24-04-lts
+
+It has been tested on a 13th Gen Intel(R) Core(TM) i9-13900K processor with Intel(R) ARC A770 Discrete GPU
 
 ## Docker 
 

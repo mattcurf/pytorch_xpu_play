@@ -9,7 +9,7 @@ python infer_sample_amp.py
 python infer_sample_compile.py
 
 echo "Training samples ..."
-#python train_sample_fp32.py
-#python train_sample_amp.py
+python train_sample_fp32.py
+python train_sample_amp.py
 python train_sample_compile.py
 
